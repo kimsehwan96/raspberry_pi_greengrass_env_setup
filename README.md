@@ -6,7 +6,7 @@
   stretch 버전이 낮은 경우에 이 스크립트 파일을 실행해서 환경셋업을 하면 된다.
 
 # making_gg_env.sh 사용법
-  `$mkdir ~/home/pi/making`
+  `$mkdir ~/home/pi/making` \n
   $cd ~/home/pi/making
   $sudo chmod +x making_gg_env.sh
   $sudo ./making_gg_env.sh
