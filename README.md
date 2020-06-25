@@ -6,13 +6,21 @@
   stretch 버전이 낮은 경우에 이 스크립트 파일을 실행해서 환경셋업을 하면 된다.
 
 # making_gg_env.sh 사용법
-  `$mkdir ~/home/pi/making` \n
-  $cd ~/home/pi/making
-  $sudo chmod +x making_gg_env.sh
-  $sudo ./making_gg_env.sh
+
+`$mkdir ~/home/pi/making`
+
+`$cd ~/home/pi/making`
+
+
+`$sudo chmod +x making_gg_env.sh`
+  
+  
+`$sudo ./making_gg_env.sh`
   
   완료 후 
-  $rm -rf ~/home/pi/making
+  
+  
+`$rm -rf ~/home/pi/making`
   
   5~10분 소요
 
@@ -22,14 +30,21 @@
   This script will be helpful.
   
  # Usage of making_gg_env.sh
-   $mkdir ~/home/pi/making
-   $cd ~/home/pi/making
-   $sudo chmod +x making_gg_env.sh
-   $sudo ./making_gg_env.sh
+   `$mkdir ~/home/pi/making`
+   
+   
+   `$cd ~/home/pi/making`
+   
+   
+   `$sudo chmod +x making_gg_env.sh`
+   
+   
+   `$sudo ./making_gg_env.sh`
+   
    
    after this process.
    
-   $rm -rf ~/home/pi/makiing
+   `$rm -rf ~/home/pi/makiing`
    
    It will take 5~10minutes.
    
