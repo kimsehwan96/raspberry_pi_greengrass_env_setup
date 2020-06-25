@@ -15,3 +15,23 @@
   $rm -rf ~/home/pi/making
   
   5~10분 소요
+
+# shell script for making aws greengrass enviroment with raspberrypi (Revolution Pi)
+  It's needed version > python3.7 & hardlink, symlink protection, memory cgroup enable(kernel) to use aws greengrass.
+  In lateset rapsberry pi OS - stertch - , Above version of python3.7 can be installed. But old stertch can't.
+  This script will be helpful.
+  
+ # Usage of making_gg_env.sh
+   $mkdir ~/home/pi/making
+   $cd ~/home/pi/making
+   $sudo chmod +x making_gg_env.sh
+   $sudo ./making_gg_env.sh
+   
+   after this process.
+   
+   $rm -rf ~/home/pi/makiing
+   
+   It will take 5~10minutes.
+   
+   - This script contains bulid installation of Python 3.7.
+   
