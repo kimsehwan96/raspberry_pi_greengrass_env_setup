@@ -11,4 +11,7 @@
   $sudo chmod +x making_gg_env.sh
   $sudo ./making_gg_env.sh
   
+  완료 후 
+  $rm -rf ~/home/pi/making
+  
   5~10분 소요
